@@ -1,0 +1,16 @@
+git init
+git add .
+git commit -m"primer repositorio"
+git config user.email
+git config user.name
+git commit -m
+git branch -M main
+git remote add origin
+git push -u origin main
+
+actualizar repositorio
+
+git pull
+git add .
+git commit -m
+git push -u origin main
